@@ -26,12 +26,15 @@ _[Torch](http://xmh57jrzrnw6insl.onion/4a1f6b371c/search.cgi)_
 
 ## Requirements  
 
+git
 _Python 2.7 - 3.7_ with  
 _[Requests](http://docs.python-requests.org/en/master/)_ and  
 _[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)_  
 
 ## Installation  
 
+Clone this repository: `$ git clone https://github.com/andrijaJ01/ProjectSCRAPPER/`.  
+Change directory to project folder(where setup.py is located): `$ cd ProjectSCRAPPER`.  
 Run the setup file: `$ python setup.py install`.  
 Done!  
 
