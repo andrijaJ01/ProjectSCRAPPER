@@ -35,7 +35,7 @@ _[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)_
 
 Clone this repository: `$ git clone https://github.com/andrijaJ01/ProjectSCRAPPER/`.  
 Change directory to project folder(where setup.py is located): `$ cd ProjectSCRAPPER`.  
-Run the setup file: `$ python setup.py install`.  
+Run the setup file (sudo might not be necessary): `$ sudo python setup.py install`.  
 Done!  
 
 ## Usage  
