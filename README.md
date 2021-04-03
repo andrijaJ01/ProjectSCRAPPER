@@ -1,4 +1,4 @@
-# Search engine spider  
+# Search engine scrapper  
 A Python library that queries Google, Bing, Yahoo and other search engines and collects the results from multiple search engine results pages.  
 Please note that web-scraping may be against the Terms of Service of some search engines, and may result in a temporary ban.
 
